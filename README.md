@@ -10,29 +10,29 @@ By leveraging automation, this project eliminates manual report creation, reduce
 
 ### Features
 
-Real-time weather data fetching from APIs
+- Real-time weather data fetching from APIs
 
-Automatic parsing of hourly forecasts
+- Automatic parsing of hourly forecasts
 
-Daily high and low temperature extraction
+- Daily high and low temperature extraction
 
-Readable, location-specific summaries
+- Readable, location-specific summaries
 
-Customizable city and temperature units (°C / °F)
+- Customizable city and temperature units (°C / °F)
 
-Easily integratable into other applications, dashboards, or notification systems
+- Easily integratable into other applications, dashboards, or notification systems
 
-Error handling for missing or malformed data
+- Error handling for missing or malformed data
 
 ### Tech Stack
 
-n8n – Workflow automation platform
+- n8n – Workflow automation platform
 
-JavaScript – Data parsing and transformation in Code nodes
+- JavaScript – Data parsing and transformation in Code nodes
 
-Weather API – Live data source (e.g., Open-Meteo API)
+- Weather API – Live data source (e.g., Open-Meteo API)
 
-JSON – Data format for processing
+- JSON – Data format for processing
 
 ### Prerequisites
 
@@ -54,10 +54,10 @@ JSON – Data format for processing
 
 ### Future Improvements
 
-Support for multiple cities in a single run
+- Support for multiple cities in a single run
 
-Integration with Slack, Telegram, or Email alerts
+- Integration with Slack, Telegram, or Email alerts
 
-Weekly and monthly weather trend summaries
+- Weekly and monthly weather trend summaries
 
-Historical weather data analysis
+- Historical weather data analysis
